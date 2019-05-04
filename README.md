@@ -1,1 +1,1 @@
-# Mike-Dane---PHP
+Learning the fundamentals of PHP.
