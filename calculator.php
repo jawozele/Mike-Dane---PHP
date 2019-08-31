@@ -8,7 +8,7 @@
 
 <?php ?>
 
-<form action="site.php" method-"get">
+<form action="site.php" method="get">
 	<input type="number" name="num1">
 	<br>
 	<input type="number" name="num1">
