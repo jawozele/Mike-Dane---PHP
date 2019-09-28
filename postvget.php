@@ -6,15 +6,15 @@
 <body>
 
 <form action="postvget.php" method="post">
-	Password: <input type="password" name="password"> <br>
-	<input type="submit">
+    Password: <input type="password" name="password"> <br>
+    <input type="submit">
 </form>
 <br><br>
 
 
 <?php
 
-	echo $_POST["password"];
+echo $_POST["password"];
 
 ?>
 
