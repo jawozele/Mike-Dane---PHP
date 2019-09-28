@@ -7,18 +7,12 @@
 
 
 <?php
-   
 
+$phrase = "Giraffe Academy";
 
-	$phrase = "Giraffe Academy";
-   
-
-   	// echo str_replace("Giraffe", "Panda", $phrase);
-
-    echo substr($phrase, 8, 3)
-    
-    
-   ?>
+// echo str_replace("Giraffe", "Panda", $phrase);
+echo substr($phrase, 8, 3);
+?>
 
 </body>
 </html>
