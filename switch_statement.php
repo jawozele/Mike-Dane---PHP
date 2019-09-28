@@ -37,22 +37,3 @@
 			echo "Don't be silly! Or did you Get a G? Please enter a number from A-D :)";
 
 
-
-
-
-
-
-
-	}
-
-	?>
-
-
-
-
-
-
-
-
-</body>
-</html>
