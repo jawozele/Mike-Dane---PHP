@@ -6,17 +6,20 @@
 <body>
 
 
-<?php ?>
+<?php
+?>
 
 <form action="site.php" method="get">
-	<input type="number" name="num1">
-	<br>
-	<input type="number" name="num1">
-	<input type="submit">
+    <input type="number" name="num1">
+    <br>
+    <input type="number" name="num1">
+    <input type="submit">
 </form>
 
 
- Answer: <?php echo $_GET["num1"] + $_GET["num2"] ?>
+ Answer: <?php
+echo $_GET["num1"] + $_GET["num2"];
+?>
 
 
 </body>
