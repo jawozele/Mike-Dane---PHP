@@ -13,10 +13,16 @@
 
 <?php
 
-	$friends = array("Kevin", "Karen", "Oscar", "Jim", "Josh");
-	$friends[4] = "Dwight";
+$friends    = array(
+    "Kevin",
+    "Karen",
+    "Oscar",
+    "Jim",
+    "Josh"
+);
+$friends[4] = "Dwight";
 
-	echo count($friends);
+echo count($friends);
 
 
 
