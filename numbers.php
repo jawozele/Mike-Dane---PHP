@@ -7,15 +7,15 @@
 
 
 <?php
-    
-    // echo 40 * 2;    
-    // echo 10 % 3;
 
-	$num = 40 + 10 * 5;
+// echo 40 * 2;    
+// echo 10 % 3;
 
-	echo $num;
-    
-    ?>
+$num = 40 + 10 * 5;
+
+echo $num;
+
+?>
 
 </body>
 </html>
